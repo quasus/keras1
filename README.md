@@ -14,4 +14,4 @@ MobileNet and an optional dropout.
 |   5 |         256 |      Adam |     avg |     0.5 |           no | 0.0617    | 0.9788        | |
 |   6 |         256 |      Adam |     max |     0.5 |           no | 0.0602    | 0.9825        | |
 |   8 |         256 |      Adam |     max |     0.5 |          yes | 0.1053    | 0.9625        | |
-|  11 |         256 |      Adam |     max |     0.5 |           no | 0.1053    | 0.9575        | Increasing resolution |
+|  11 |         256 |      Adam |     max |     0.5 |           no | 0.0653    | 0.9738        | Increasing resolution |
